@@ -22,7 +22,7 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <failOnMissingWebXml>false</failOnMissingWebXml>
 
-    <postgresql.version>42.2.14</postgresql.version>
+    <postgresql.version>42.5.0</postgresql.version>
 
     <spring-cloud.version>Horsham.RELEASE</spring-cloud.version>
     <!-- <spring-cloud.version>Finchley.SR2</spring-cloud.version> -->
